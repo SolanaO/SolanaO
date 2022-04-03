@@ -4,6 +4,16 @@ Data scientist with mathematics background who is passionate about growth, learn
 
 Language is our main and one of the most powerful tools of communication, which can range from straightforward and simple to confusing and ambiguous. While I find the challenges that rise from the Language Technologies extremely interesting, my mathematics background gives me a deeper understanding of the algorithms and concepts used in these areas. 
 
+ I’m currently working on:
+  
+        🔸 document classification with transformers on a dataset of blogs
+
+#### How to find me around:
+  🔹 [Linkedin](https://www.linkedin.com/in/silviaeonofrei/)  
+  🔹 [Medium](https://medium.com/@silviaonofrei) 
+  
+
+
 <!--
 **SolanaO/SolanaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +35,6 @@ Database environment: PostgreSQL
 Libraries and Frameworks: SciPy, scikit-learn, TensorFlow, Keras, NLTK 
 Version control: Git
 
-Solana's Github Pages is a collection of showcases for my data science and machine learning projects. I love working with data, I am a perpetual learner and I strive to share my knowledge. I am an avid mathematician with a keen interest in NLP and deep learning.   
 
 ## Recent Work and Work in Progress
 
@@ -66,9 +75,5 @@ Below there are links to the groups of projects I did within several nanodegrees
 
 [Silvia on Medium](https://medium.com/@silviaonofrei) has shorter posts on various topics sprouted from my work. More to come!
 
-## Contact
 
-If you want to get in touch with me, check out my [linkedin](https://www.linkedin.com/in/silviaeonofrei/) page.
-
-#### Thank you for stopping by!
 

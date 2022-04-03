@@ -2,7 +2,7 @@
 
 Data scientist with mathematics background who is passionate about growth, learning and solving complex analytical problems. I love to work with big data and to tell its story with purposeful and interesting visualizations. I also enjoy explaining complex concepts using simple and meaningful examples.
 
-Language is our main and one of the most powerful tools of communication, which can range from straightforward and simple to confusing and ambiguous. While I find the challenges that rise from the Language Technologies extremely interesting, my mathematics background gives me a deeper understanding of the deep learning algorithms and concepts used in these areas. 
+Language is our main and one of the most powerful tools of communication, which can range from straightforward and simple to confusing and ambiguous. While I find the challenges that rise from the Language Technologies extremely interesting, my mathematics background gives me a deeper understanding of the algorithms and concepts used in these areas. 
 
 <!--
 **SolanaO/SolanaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# Hello and Welcome!
-
-
-
-
-In my most recent project I built a multi-label classifier that predicts the job satisfaction of data developers, based on data from a survey conducted by StackOverflow. 
 
 
 Programming languages: Python

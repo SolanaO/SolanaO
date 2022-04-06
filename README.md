@@ -26,9 +26,9 @@ Language is our main and the most powerful tool of communication, it ranges from
   🔸[Cybernated Stories](https://solanao.github.io/cybernated_stories/) - longer stories of data science and math 
  
 #### Work completed for Udacity nanodegrees:    
-   🔹 [Natural Language Processing Nanodegree (2020)](https://solanao.github.io/Elements-of-NLP/)   
-   🔹 [Machine Learning Nanodegree (2019)](https://solanao.github.io/Elements-of-Machine-Learning/)   
-   🔹 [Data Analyst Nanodegree (2018)](https://solanao.github.io/Exploratory-Data-Analysis/)
+   🔹 [Natural Language Processing Nanodegree (2020)](https://solanao.github.io/Elements_of_NLP/)   
+   🔹 [Machine Learning Nanodegree (2019)](https://solanao.github.io/Elements_of_Machine_Learning/)   
+   🔹 [Data Analyst Nanodegree (2018)](https://solanao.github.io/Exploratory_Data_Analysis/)
 
 
 

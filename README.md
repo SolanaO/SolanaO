@@ -4,8 +4,6 @@ Data scientist with mathematics background who is passionate about growth, learn
 
 *All data conceals a story, but how you tell the story is important!* I enjoy working with data, unraveling its insights and telling its story via elegant and relevant visualizations. 
 
-Language is our main and the most powerful tool of communication, it ranges from straightforward and simple to confusing and ambiguous. While I find the challenges that rise from the Language Technologies extremely interesting, my mathematics background gives me a deeper understanding of the algorithms and concepts used in these areas. 
-
 #### I’m currently working on:
    🔸 Content recommender using Bert  
    🔸 Document classification using transformers on a collection of blogs

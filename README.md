@@ -6,7 +6,7 @@ Data scientist with mathematics background who is passionate about growth, learn
 
 #### I’m currently working on:
    🔸 Content recommender using Bert  
-   🔸 Document classification using transformers on a collection of blogs
+   🔸 Document categorization using transformers on a collection of blogs
   
 #### Most recent projects:
 🔹 [Customer Churn Prediction](https://github.com/SolanaO/Customer_Churn_Prediction)  

@@ -9,7 +9,7 @@ Each data set is unique. I enjoy to unravel its insights via machine learning an
 I am mostly interested in working with unstructured text data and using the full spectrum of techniques from natural language processing to automatically extract and classify relevant information, answer questions or categorize documents.
 
 #### I’m currently working on:
-   🔸 [Topic modelling with Bert on a collection of blogs](https://github.com/SolanaO/Medium_Dataset)
+   🔸 [Topic modelling with Bert on a collection of blogs](https://github.com/SolanaO/Medium_Dataset)  
    🔸 [Recommenders on a corpus of short texts](https://github.com/SolanaO/Recommendation_Systems)
   
 #### Most recent projects:

@@ -13,7 +13,7 @@ I am mostly interested in working with unstructured text data and using the full
    🔸 [Recommenders on a corpus of short texts](https://github.com/SolanaO/Recommendation_Systems)
   
 #### Most recent projects:
-🔹 [Categorization of Scientific Titles using Healthcare Spark NLP](https://github.com/SolanaO/SparkNLP_Study)  
+🔹 [Topic Modelling with Healthcare Spark NLP](https://github.com/SolanaO/SparkNLP_Study)  
 🔹 [Customer Churn Prediction](https://github.com/SolanaO/Customer_Churn_Prediction)  
 🔹 [Developers Survey Analysis](https://github.com/SolanaO/Developers_Survey_Analysis)  
 

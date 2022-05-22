@@ -9,8 +9,8 @@ Each data set is unique. I enjoy to unravel its insights via machine learning an
 I am mostly interested in working with unstructured text data and using the full spectrum of techniques from natural language processing to automatically extract and classify relevant information, answer questions or categorize documents.
 
 #### I’m currently working on:
-   🔸 Topic modelling with Bert on a collection of blogs  
-   🔸 Build several recommenders on a corpus of short texts  
+   🔸 [Topic modelling with Bert on a collection of blogs](https://github.com/SolanaO/Medium_Dataset)
+   🔸 [Recommenders on a corpus of short texts](https://github.com/SolanaO/Recommendation_Systems)
   
 #### Most recent projects:
 🔹 [Categorization of Scientific Titles using Healthcare Spark NLP](https://github.com/SolanaO/SparkNLP_Study)  
@@ -30,10 +30,6 @@ I am mostly interested in working with unstructured text data and using the full
    🔹 [Machine Learning Nanodegree (2019)](https://solanao.github.io/Elements_of_Machine_Learning/)   
    🔹 [Data Analyst Nanodegree (2018)](https://solanao.github.io/Exploratory_Data_Analysis/)
 
-#### Personal blog - under construction
-  🔸[Cybernated Stories](https://solanao.github.io/cybernated_stories/) - longer stories of data science and math 
- 
-
 
 <!--
 **SolanaO/SolanaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,6 +44,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+#### Personal blog - under construction
+  🔸[Cybernated Stories](https://solanao.github.io/cybernated_stories/) - longer stories of data science and math 
+
 -->
 
 

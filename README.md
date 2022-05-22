@@ -1,33 +1,38 @@
 ### Hello, I'm Silvia 👋👩
 
-Data scientist with mathematics background who is passionate about growth, learning and solving complex analytical problems. 
+Data scientist and mathematician, passionate about growth, learning and solving complex analytical problems. 
 
-*All data conceals a story, but how you tell the story is important!* I enjoy working with data, unraveling its insights and telling its story via elegant and relevant visualizations. 
+✨ All data conceals a story, but how you tell the story is important ✨
+
+Each data set is unique. I enjoy to unravel its insights via machine learning and deep learning techniques and then to tell its story through relevant visualizations.
+
+I am mostly interested in working with unstructured text data and using the full spectrum of techniques from natural language processing to automatically extract and classify relevant information, answer questions or categorize documents.
 
 #### I’m currently working on:
-   🔸 Content recommender using Bert  
-   🔸 Document categorization using transformers on a collection of blogs
+   🔸 Topic modelling with Bert on a collection of blogs  
+   🔸 Build several recommenders on a corpus of short texts  
   
 #### Most recent projects:
+🔹 [Categorization of Scientific Titles using Healthcare Spark NLP](https://github.com/SolanaO/SparkNLP_Study)  
 🔹 [Customer Churn Prediction](https://github.com/SolanaO/Customer_Churn_Prediction)  
 🔹 [Developers Survey Analysis](https://github.com/SolanaO/Developers_Survey_Analysis)  
-🔹 [Climate Change miniApp](https://climatechangewbapp.herokuapp.com/) 
 
+#### Recent writings:
+  🔹 [Medium](https://medium.com/@silviaonofrei) 
 
 #### How to reach me:
   🔹 [Linkedin](https://www.linkedin.com/in/silviaeonofrei/)  
-  🔹 [Medium](https://medium.com/@silviaonofrei) 
   
 ***
-  
-#### Personal blog: under construction
-  🔸[Cybernated Stories](https://solanao.github.io/cybernated_stories/) - longer stories of data science and math 
  
 #### Work completed for Udacity nanodegrees:    
    🔹 [Natural Language Processing Nanodegree (2020)](https://solanao.github.io/Elements_of_NLP/)   
    🔹 [Machine Learning Nanodegree (2019)](https://solanao.github.io/Elements_of_Machine_Learning/)   
    🔹 [Data Analyst Nanodegree (2018)](https://solanao.github.io/Exploratory_Data_Analysis/)
 
+#### Personal blog - under construction
+  🔸[Cybernated Stories](https://solanao.github.io/cybernated_stories/) - longer stories of data science and math 
+ 
 
 
 <!--

@@ -1,4 +1,4 @@
-### Hello, I'm Silvia 👋👩
+### Hello, I'm Silvia 
 
 Data scientist and mathematician, passionate about growth, learning and solving complex analytical problems. 
 

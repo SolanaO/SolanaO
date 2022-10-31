@@ -17,7 +17,7 @@ I am mostly interested in working with unstructured text data and using the full
 ***
  
 #### Work completed for Udacity nanodegrees:    
-   🔹 [Data Scientist Nanodegree (2021)](https://solana.github.io/Elements_of_Data_Science/) 
+   🔹 [Data Scientist Nanodegree (2021)](https://solana.github.io/Elements_of_Data_Science/)  
    🔹 [Natural Language Processing Nanodegree (2020)](https://solanao.github.io/Elements_of_NLP/)   
    🔹 [Machine Learning Nanodegree (2019)](https://solanao.github.io/Elements_of_Machine_Learning/)   
    🔹 [Data Analyst Nanodegree (2018)](https://solanao.github.io/Exploratory_Data_Analysis/)

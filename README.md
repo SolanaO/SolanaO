@@ -1,18 +1,13 @@
-### Hello, I'm Silvia 
+### Hello :wave:
 
-Data scientist and mathematician, passionate about growth, learning and solving complex analytical problems. 
+I am a data scientist and a mathematician, passionate about growth, learning and solving complex analytical problems, with extensive experience in higher education and research. 
 
-✨ All data conceals a story, but how you tell the story is important ✨
-
-Each data set is unique. I enjoy to unravel its insights via machine learning and deep learning techniques and then to tell its story through relevant visualizations.
-
-I am mostly interested in working with unstructured text data and using the full spectrum of techniques from natural language processing to automatically extract and classify relevant information, answer questions or categorize documents.
-
-#### Recent writings:
-  🔹 [Medium](https://medium.com/@silviaonofrei) 
-
-#### How to reach me:
-  🔹 [Linkedin](https://www.linkedin.com/in/silviaeonofrei/)  
+I work with unstructured text data where I use the most advanced NLP techniques and the latest Deep Learning algorithms. I build knowledge graphs and I have a keen interest in graph data science.
+  
+ <a href="https://www.linkedin.com/in/silviaeonofrei/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  &nbsp; 
+ <a href="https://medium.com/@silviaonofrei">
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>
   
 ***
  
@@ -49,9 +44,7 @@ Here are some ideas to get you started:
   🔸[Cybernated Stories](https://solanao.github.io/cybernated_stories/) - longer stories of data science and math 
 
 -->
-
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> or ![image]([{BadgeURLHere}](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))(https://solanao.github.io/Elements_of_Data_Science/)  
-
+ 
 
 
 

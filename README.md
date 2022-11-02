@@ -8,6 +8,11 @@ I work with unstructured text data where I use the most advanced NLP techniques 
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  &nbsp; 
  <a href="https://medium.com/@silviaonofrei">
  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>
+
+***
+
+![Silvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolanaO&count_private=true&show_icons=true&theme=tokyonight)
+  
   
 ***
  

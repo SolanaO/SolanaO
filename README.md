@@ -1,9 +1,11 @@
 ### Hello :wave:
 
-I am a data scientist and a mathematician, passionate about growth, learning and solving complex analytical problems using my extensive experience in higher education and research. 
+I am a data scientist and a mathematician, passionate about growth, learning and solving complex analytical problems utilizing my extensive experience in higher education and research. 
 
 I work with unstructured text data where I use the most advanced NLP techniques and the latest Deep Learning algorithms. I build knowledge graphs and I have a keen interest in graph data science.
   
+ *** 
+ 
  <a href="https://www.linkedin.com/in/silviaeonofrei/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  &nbsp; 
  <a href="https://medium.com/@silviaonofrei">

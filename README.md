@@ -1,6 +1,6 @@
 ### Hello :wave:
 
-I am a data scientist and a mathematician, passionate about growth, learning and solving complex analytical problems, with extensive experience in higher education and research. 
+I am a data scientist and a mathematician, passionate about growth, learning and solving complex analytical problems using my extensive experience in higher education and research. 
 
 I work with unstructured text data where I use the most advanced NLP techniques and the latest Deep Learning algorithms. I build knowledge graphs and I have a keen interest in graph data science.
   

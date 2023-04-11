@@ -1,8 +1,10 @@
 ### Hello :wave:
 
-I am a data scientist, mathematician, researcher, coder, educator, data evangelist, hippophile, trail runner. I am passionate about growth, learning and solving complex analytical problems utilizing my extensive experience in higher education and research. 
+☑️  I am a data scientist, mathematician, researcher, coder, educator, data evangelist, hippophile, trail runner. I am passionate about growth, learning and solving complex analytical problems utilizing my extensive experience in higher education and research. 
 
-I work with unstructured text data where I use the most advanced NLP techniques and the latest Deep Learning algorithms. I like to build knowledge graphs and I believe that graph data science brings into play specific powerful tools. By making use of the relations between the data points, it transforms the way we approach data and facilitates more accurate and easier to interpret predictions. 
+☑️  Specialized in NLP and advanced graph analytics, I mostly work with unstructured text data and employ cutting-edge techniques and the latest deep learning algorithms.
+
+☑️  I have a keen interest in building knowledge graphs and I firmly believe that utilizing graph data science unlocks specific powerful tools. Through leveraging relationships between data points, it revolutionizes our approach to data and enables us to make more precise and comprehensible predictions.
 
 *** 
  

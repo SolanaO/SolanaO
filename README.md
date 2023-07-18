@@ -1,6 +1,8 @@
 ### Hello :wave:
 
-☑️  I am a data scientist, mathematician, researcher, coder, educator, data evangelist, hippophile, trail runner. I am passionate about personal growth, continuous learning, and leverage my experience in academia and research to tackle complex analytical problems. 
+☑️  I am a data scientist, mathematician, researcher, coder, educator, data evangelist, hippophile, trail runner. 
+
+☑️  I am passionate about personal growth, continuous learning, and leverage my experience in academia and research to tackle complex analytical problems. 
 
 ☑️  Specialized in NLP with a current focus on large language models, I integrate advanced AI technologies to bring cutting-edge solutions to life.
 

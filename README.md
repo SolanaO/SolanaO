@@ -1,10 +1,10 @@
 ### Hello :wave:
 
-☑️  I am a data scientist, mathematician, researcher, coder, educator, data evangelist, hippophile, trail runner. I am passionate about growth, learning and solving complex analytical problems utilizing my extensive experience in higher education and research. 
+☑️  I am a data scientist, mathematician, researcher, coder, educator, data evangelist, hippophile, trail runner. I am passionate about personal growth, continuous learning, and leverage my experience in academia and research to tackle complex analytical problems. 
 
-☑️  Specialized in NLP and advanced graph analytics, I mostly work with unstructured text data and employ cutting-edge techniques and the latest deep learning algorithms.
+☑️  Specialized in NLP with a current focus on large language models, I integrate advanced AI technologies to bring cutting-edge solutions to life.
 
-☑️  I have a keen interest in building knowledge graphs and I firmly believe that utilizing graph data science unlocks specific powerful tools. Through leveraging relationships between data points, it revolutionizes our approach to data and enables us to make more precise and comprehensible predictions.
+☑️  With expertize in advanced graph analytics, I explore the integration of knowledge graphs with large language models. This fusion revolutionizes our interaction with data, and significantly elevates the quality of our insights derived from the data.
 
 *** 
  
@@ -15,7 +15,8 @@
 
 ***
 
-![Silvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolanaO&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Silvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolanaO&count_private=true&show_icons=true&theme=tokyonight)
+-->
   
   
 ***

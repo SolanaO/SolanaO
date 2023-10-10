@@ -2,11 +2,13 @@
 
 Data Scientist 🤖 Mathematician ∑ Researcher 📚 Coder 👨‍💻 Educator 👩‍🏫  Data Evangelist 💡 Hippophile 🐴 Trail Runner 🏃‍♂️
 
-☑️  I am passionate about personal growth, continuous learning, and leveraging my experience in academia and research to tackle complex analytical problems. 
+☑️  Passionate about personal growth and continuous learning, I leverage my academic and research background to solve intricate analytical problems. 
 
-☑️  Specialized in NLP with a current focus on large language models, I integrate advanced AI technologies to bring cutting-edge solutions to life.
+☑️  Currently focusing on Large Language Models and Generative AI. 
 
-☑️  With expertize in advanced graph analytics, I explore the integration of knowledge graphs with large language models. This fusion revolutionizes our interaction with data, and significantly elevates the quality of our insights derived from the data.
+☑️  Highly proficient in Natural Language Processing. 
+
+☑️  Well-versed in Graph Analytics, I investigate the integration of Knowledge Graphs with Large Language Models.
 
 *** 
  

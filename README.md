@@ -1,6 +1,6 @@
 ### Hello :wave:
 
-☑️  I am a data scientist, mathematician, researcher, coder, educator, data evangelist, hippophile, trail runner. 
+☑️  Data Scientist 🤖 Mathematician ∑ Researcher 📚 Coder 👨‍💻 Educator 👩‍🏫  Data Evangelist 💡 Hippophile 🐴 Trail Runner 🏃‍♂️
 
 ☑️  I am passionate about personal growth, continuous learning, and leveraging my experience in academia and research to tackle complex analytical problems. 
 

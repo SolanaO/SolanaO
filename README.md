@@ -8,7 +8,7 @@ Data Scientist 🤖 Mathematician ∑ Researcher 📚 Coder 👨‍💻 Educator
 
 ☑️  Highly proficient in Natural Language Processing. 
 
-☑️  Well-versed in Graph Analytics, I investigate the integration of Knowledge Graphs with Large Language Models.
+☑️  Well-versed in Graph Data Science, I investigate the integration of Knowledge Graphs with Large Language Models.
 
 *** 
  

@@ -2,7 +2,7 @@
 
 Data Scientist 🤖 Mathematician ∑ Researcher 📚 Coder 👨‍💻 Educator 👩‍🏫  Data Evangelist 💡 Hippophile 🐴 Trail Runner 🏃‍♂️
 
-☑️  Passionate about personal growth and continuous learning, I leverage my academic and research background to solve intricate analytical problems. 
+☑️  I leverage my academic and mathematics research background to solve data problems.
 
 ☑️  Currently focusing on Large Language Models and Generative AI. 
 

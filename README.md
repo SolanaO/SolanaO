@@ -2,13 +2,13 @@
 
 Data Scientist 🤖 Mathematician ∑ Researcher 📚 Coder 👨‍💻 Educator 👩‍🏫  Content Creator 💡 Hippophile 🐴 Trail Runner 🏃‍♂️
 
-☑️  I leverage my academic and mathematics research background to solve data problems.
+☑️  Applying academic & math research expertise to tackle data challenges.
 
-☑️  Currently focusing on Large Language Models and Generative AI. 
+☑️  Currently focusing on Large Language Models and Generative AI.
 
-☑️  Highly proficient in Natural Language Processing. 
+☑️  Highly proficient in Natural Language Processing.
 
-☑️  Well-versed in Graph Data Science, I investigate the integration of Knowledge Graphs with Large Language Models.
+☑️  Integrating Knowledge Graphs with Large Language Models, expert in Graph Data Science.
 
 *** 
  

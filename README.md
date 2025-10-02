@@ -1,14 +1,14 @@
 ### Hello :wave:
 
-Data Scientist 🤖 Mathematician ∑ Researcher 📚 Coder 👨‍💻 Educator 👩‍🏫  Content Creator 💡 Hippophile 🐴 Trail Runner 🏃‍♂️
+I’m an AI/ML Architect 🤖 & Mathematician ∑ with a passion for research 📚, coding 👨‍💻, and sharing knowledge 💡. Outside of tech, I’m a horse lover 🐴 and trail runner 🏃‍♂️.
 
-☑️  Applying academic & math research expertise to tackle data challenges.
+☑️  Applying my academic & math background to solve complex data challenges.
 
 ☑️  Currently focusing on Large Language Models and Generative AI.
 
-☑️  Highly proficient in Natural Language Processing.
+☑️  Experienced in Natural Language Processing across research and production.
 
-☑️  Integrating Knowledge Graphs with Large Language Models, expert in Graph Data Science.
+☑️  Exploring the intersection of Knowledge Graphs & LLMs -- expert in Graph Data Science.
 
 *** 
  

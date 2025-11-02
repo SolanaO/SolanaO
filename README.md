@@ -1,14 +1,19 @@
 ### Hello :wave:
 
-I’m an AI/ML Architect 🤖 & Mathematician ∑ with a passion for research 📚, coding 👨‍💻, and sharing knowledge 💡. Outside of tech, I’m a horse lover 🐴 and trail runner 🏃‍♂️.
+I’m an AI/ML Architect 🤖 & Mathematician ∑ driven by curiosity and the pursuit of elegant, practical AI systems.  
+I design and deploy intelligent architectures that connect structure, language, and meaning.  
 
-☑️  Applying my academic & math background to solve complex data challenges.
+☑️  Building and scaling solutions powered by Generative AI and Transformer architectures.  
 
-☑️  Currently focusing on Large Language Models and Generative AI.
+☑️  Experienced in NLP across both research and production environments.  
 
-☑️  Experienced in Natural Language Processing across research and production.
+☑️  Exploring the frontier between Knowledge Graphs and LLMs — expert in Graph Data Science.  
 
-☑️  Exploring the intersection of Knowledge Graphs & LLMs -- expert in Graph Data Science.
+☑️  Applying a strong mathematical foundation to solve complex, real-world data challenges.  
+
+Outside of tech, I’m a horse lover 🐴 and trail runner 🏃‍♀️, happiest where logic meets wilderness.
+
+
 
 *** 
  
